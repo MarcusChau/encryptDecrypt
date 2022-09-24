@@ -14,7 +14,7 @@ Before you begin, ensure you have the following:
 
 ## Development Expansion ##
 
-This application can be expaneded to where this can be implemented into passwords.
+This application can be expanded to where this can be implemented into passwords.
 
 ## Technology Stack ##
 
